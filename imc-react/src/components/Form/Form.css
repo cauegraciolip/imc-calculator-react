@@ -1,0 +1,32 @@
+.container {
+  margin: 15px 0;
+  width: 100%;
+}
+
+.control-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 3px;
+  border: none;
+  background-color: #d9cb9e;
+  color: #1e1e20;
+  font-size: 16px;
+
+  margin-bottom: 15px;
+}
+
+.input-peso,
+.input-altura {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-peso label,
+.input-altura label {
+  padding: 0 0 5px 10px;
+}

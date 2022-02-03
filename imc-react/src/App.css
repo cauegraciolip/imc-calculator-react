@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+  color: rgb(209, 209, 209);
+}
+
+.principal-container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 2px solid #dc3522;
+  padding: 30px;
+  border-radius: 10px;
+  color: white;
+}
